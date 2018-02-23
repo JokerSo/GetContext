@@ -1,0 +1,34 @@
+﻿生成启动时间为 2018/2/23 11:11:44。
+     1>项目“F:\study\plc\GetContext\GetContext\GetContext.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\GetContext.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GetContext.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GetContextDlg.cpp
+         GetContextDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\study\plc\GetContext\Debug\GetContext.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\GetContext.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\study\plc\GetContext\Debug\GetContext.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\study\plc\GetContext\Debug\GetContext.lib" /MACHINE:X86 Debug\GetContext.res
+         Debug\GetContext.exe.embed.manifest.res
+         Debug\ConnectSock.obj
+         Debug\DetailDlg.obj
+         Debug\GetContext.obj
+         Debug\GetContextDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GetContext.exe.embed.manifest" /manifest Debug\GetContext.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         GetContext.vcxproj -> F:\study\plc\GetContext\Debug\GetContext.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\GetContext.unsuccessfulbuild”。
+         正在对“Debug\GetContext.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\study\plc\GetContext\GetContext\GetContext.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.38
